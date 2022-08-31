@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me: nikolasmcnamee@gmail.com
 - ✨Fun Facts: 
-    - 🐲 I am currently learning Chinese
+    - 🐲 I am currently studying Mandarin Chinese, 你好！
     - 📚 I am currently reading the Wheel of Time series by Robert Jordan
 
 <!---
