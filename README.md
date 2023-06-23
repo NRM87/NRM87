@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Nikolas McNamee.
-- 👀 I’m currently interested in working as an intern!
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m looking for internships!
+- 🌱 I’m currently learning HTML and CSS!
 - 📫 How to reach me: nikolasmcnamee@gmail.com
 - ✨Fun Facts: 
-    - 🐲 I am currently studying Mandarin Chinese, 你好！
-    - 📚 I am currently reading the Wheel of Time series by Robert Jordan
+    - 🐲 I'm currently studying Mandarin Chinese, 你好！
+    - 📚 I'm reading The Lord of The Rings
+    - 🍛 I'm perfecting my Tikka Masala recipe
 
 <!---
 - 💞️ I’m looking to collaborate on ...
